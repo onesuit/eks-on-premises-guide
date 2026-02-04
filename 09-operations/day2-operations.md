@@ -73,6 +73,3 @@ kubectl get events --sort-by='.lastTimestamp'
 kubectl describe nodes | grep -A 5 "Allocated resources"
 ```
 
----
-
-[다음: 업그레이드 전략 →](upgrades.md)

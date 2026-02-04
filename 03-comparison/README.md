@@ -123,6 +123,3 @@
 2. **[핵심 차이점 비교](key-differences.md)**: 기술적 관점에서 상세 비교
 3. **[선택 가이드](decision-guide.md)**: 우리 조직에 맞는 선택 방법
 
----
-
-[다음: 철학적 차이 →](philosophy.md)

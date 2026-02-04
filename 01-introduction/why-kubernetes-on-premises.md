@@ -217,6 +217,3 @@ Kubernetes를 직접 구축하고 운영하는 것은 어렵습니다. 정말 �
 
 다음 장에서는 Kubernetes의 기본 개념을 더 자세히 알아보고, 그 다음에 이 두 솔루션을 비교해 보겠습니다.
 
----
-
-[다음: Kubernetes 기초 →](../02-kubernetes-basics/README.md)

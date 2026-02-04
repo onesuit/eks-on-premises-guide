@@ -97,6 +97,3 @@ ETCDCTL_API=3 etcdctl snapshot restore /backup/etcd-20240101.db
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-[다음: 비용 분석 →](../10-cost/README.md)

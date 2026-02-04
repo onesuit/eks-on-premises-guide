@@ -108,6 +108,3 @@ Kubernetes는 이 문제의 해답이 될 수 있습니다. 왜냐하면:
 
 다음 페이지에서는 왜 온프레미스에서 Kubernetes를 운영하는 것이 좋은 선택인지 더 자세히 알아보겠습니다.
 
----
-
-[다음: 왜 온프레미스에서 Kubernetes인가? →](why-kubernetes-on-premises.md)

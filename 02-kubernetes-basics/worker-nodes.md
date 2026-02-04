@@ -321,6 +321,3 @@ spec:
 
 다음 장에서 두 솔루션을 자세히 비교해 보겠습니다.
 
----
-
-[다음: EKS Hybrid Nodes vs EKS Anywhere 비교 →](../03-comparison/README.md)

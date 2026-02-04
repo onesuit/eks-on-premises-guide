@@ -326,5 +326,3 @@ CloudWatch 통합이 없으므로 모니터링 스택을 직접 구성해야 합
 ---
 
 다음 장에서는 Multi-Cluster 운영에 대해 알아봅니다.
-
-[다음: Multi-Cluster 운영 →](../06-multi-cluster/README.md)

@@ -45,6 +45,3 @@
 2. **[EKS Anywhere 비용](anywhere-pricing.md)**: 숨겨진 비용
 3. **[TCO 분석 및 비교](tco-analysis.md)**: 실제 비교 예시
 
----
-
-[다음: EKS Hybrid Nodes 비용 →](hybrid-nodes-pricing.md)

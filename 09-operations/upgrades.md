@@ -75,6 +75,3 @@ Control Plane v1.31
 항상 Control Plane을 먼저 업그레이드!
 ```
 
----
-
-[다음: 모니터링 스택 →](monitoring.md)

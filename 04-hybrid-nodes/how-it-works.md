@@ -329,6 +329,3 @@ sudo nodeadm status
 sudo journalctl -u kubelet -f
 ```
 
----
-
-[다음: 장점과 활용 사례 →](benefits.md)

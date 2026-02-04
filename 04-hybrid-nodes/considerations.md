@@ -314,5 +314,3 @@ Hybrid Node 업그레이드 순서:
 ---
 
 다음 장에서는 EKS Anywhere에 대해 알아봅니다.
-
-[다음: EKS Anywhere →](../05-anywhere/README.md)

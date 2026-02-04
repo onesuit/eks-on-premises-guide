@@ -44,6 +44,3 @@
 2. **[GenAI 워크로드](genai-workloads.md)**: GPU, ML Ops
 3. **[eBPF와 Service Mesh](ebpf-service-mesh.md)**: 차세대 네트워킹
 
----
-
-[다음: Platform Engineering →](platform-engineering.md)

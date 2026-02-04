@@ -140,6 +140,3 @@ Pod 간, 외부 통신 제어:
 3. **[워크로드 보안](workload-security.md)**: PSS, OPA, 이미지 스캐닝
 4. **[데이터 보안](data-security.md)**: Secrets, 암호화
 
----
-
-[다음: 신원 및 접근 관리 →](identity-access.md)

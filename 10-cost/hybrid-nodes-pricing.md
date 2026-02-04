@@ -48,6 +48,3 @@
 ✅ Reserved Instance 계약 검토 (Direct Connect)
 ```
 
----
-
-[다음: EKS Anywhere 비용 →](anywhere-pricing.md)

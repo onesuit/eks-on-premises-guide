@@ -46,6 +46,3 @@
 3. **[CNI 선택](cni-selection.md)**: Cilium vs Calico
 4. **[방화벽 규칙](firewall-rules.md)**: 필수 포트 및 설정
 
----
-
-[다음: Hybrid Nodes 네트워크 →](hybrid-nodes-network.md)

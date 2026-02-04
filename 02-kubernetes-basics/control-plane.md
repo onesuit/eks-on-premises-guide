@@ -340,6 +340,3 @@ AWS가 자동으로:
 >
 > 이것이 "Control Plane 관리 부담을 줄인다"의 실제 의미입니다.
 
----
-
-[다음: Worker Node 이해하기 →](worker-nodes.md)

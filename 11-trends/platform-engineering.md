@@ -61,6 +61,3 @@ EKS Anywhere + Backstage:
 └── 셀프서비스로 병목 제거
 ```
 
----
-
-[다음: GenAI 워크로드 →](genai-workloads.md)

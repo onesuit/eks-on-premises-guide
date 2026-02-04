@@ -62,6 +62,3 @@ spec:
 | **vLLM** | LLM 서빙 |
 | **Triton** | NVIDIA 추론 서버 |
 
----
-
-[다음: eBPF와 Service Mesh →](ebpf-service-mesh.md)

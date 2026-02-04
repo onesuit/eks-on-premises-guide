@@ -141,6 +141,3 @@ spec:
   - on-prem-pool
 ```
 
----
-
-[다음: 연결 방식 →](connectivity.md)

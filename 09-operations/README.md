@@ -57,6 +57,3 @@ Kubernetes 클러스터는 구축보다 운영이 더 중요합니다. 이 장�
 3. **[모니터링 스택](monitoring.md)**: Prometheus, Grafana
 4. **[백업 및 재해복구](backup-dr.md)**: Velero, etcd 백업
 
----
-
-[다음: Day-2 운영이란 →](day2-operations.md)

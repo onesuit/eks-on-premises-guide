@@ -90,6 +90,3 @@ EKS Hybrid Nodes / EKS Anywhere:
 └── Tetragon (보안) - 선택
 ```
 
----
-
-[다음: 시작하기 →](../12-getting-started/README.md)

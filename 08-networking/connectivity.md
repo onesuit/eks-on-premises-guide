@@ -116,6 +116,3 @@ logs.{region}.amazonaws.com:443
 ├── CloudWatch Logs (선택)
 ```
 
----
-
-[다음: CNI 선택 →](cni-selection.md)

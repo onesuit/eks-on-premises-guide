@@ -237,6 +237,3 @@ Prod Cluster:
 ✅ 독립적인 업그레이드 필요
 ```
 
----
-
-[다음: 관리 도구 비교 →](management-tools.md)

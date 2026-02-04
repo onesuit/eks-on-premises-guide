@@ -99,6 +99,3 @@ EKS Anywhere:
 └── Cilium 기본 (변경 불필요)
 ```
 
----
-
-[다음: 방화벽 규칙 →](firewall-rules.md)

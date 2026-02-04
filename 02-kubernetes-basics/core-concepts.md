@@ -310,6 +310,3 @@ kubectl apply -f deployment.yaml -n staging
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-[다음: Control Plane 깊이 알아보기 →](control-plane.md)

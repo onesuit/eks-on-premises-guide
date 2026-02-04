@@ -199,6 +199,3 @@
 2. **[관리 도구 비교](management-tools.md)**: ArgoCD, Flux, Rancher 등
 3. **[GitOps 전략](gitops.md)**: 멀티 클러스터 GitOps 구현
 
----
-
-[다음: 왜 여러 클러스터가 필요한가 →](why-multi-cluster.md)

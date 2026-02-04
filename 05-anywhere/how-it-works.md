@@ -377,6 +377,3 @@ spec:
         hostname: server-01
 ```
 
----
-
-[다음: 장점과 활용 사례 →](benefits.md)
